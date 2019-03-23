@@ -15,3 +15,4 @@ client.channels.get("557617568924303380").join();
     });
 
 client.login(process.env.BOT_TOKEN);
+
